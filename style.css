@@ -54,11 +54,6 @@ body{
   color: #fff;
 }
 
-.text{
-  color:#ffff;
-  box-shadow:2px 2px 3px grey;
-}
-
 .follow:hover {
   background-color: gold;
   color: #000;
@@ -115,6 +110,10 @@ footer {
     h1{
        color:#ffff;
     }
+  
+    .text{
+      color:#ffff;
+  }
     
     .img{
         width:60%;
