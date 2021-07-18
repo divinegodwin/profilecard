@@ -106,7 +106,11 @@ footer {
     #container{
         width: 90%;
     }
-
+    
+    h1{
+       color:#ffff;
+    }
+    
     .img{
         width:60%;
     }
