@@ -54,6 +54,11 @@ body{
   color: #fff;
 }
 
+.text{
+  color:#ffff;
+  box-shadow:2px 2px 3px grey;
+}
+
 .follow:hover {
   background-color: gold;
   color: #000;
